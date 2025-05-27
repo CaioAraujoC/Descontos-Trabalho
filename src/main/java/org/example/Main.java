@@ -13,10 +13,12 @@ public class Main {
         }
     }
 
-    // Função principal para testar as condicionais
+    // Função principal para testar as condicionais 
     public static void main(String[] args) {
         calcularDesconto(850);
         calcularDesconto(1200);
         calcularDesconto(3000);
     }
 }
+
+// Feito
